@@ -3,9 +3,12 @@
     padding: 0;
     list-style: ;
 }
+#main {
+    background-color: rgba(47, 189, 255, 0.795);
+}
 body {
     font-family: 'poppins',sans-serif;
 }
-li {
+ #main, li {
     display: inline-block;
 }
